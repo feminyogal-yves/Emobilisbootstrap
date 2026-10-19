@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(246, 218, 218);
+    color: rgb(73, 66, 57);
+}
+
+nav{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 16px;
+}
+
+/* section{
+    background-color: rgb(108, 51, 51);
+    color: aliceblue;
+    text-align: center;
+    padding: 80px 20px;
+} */
+
+.hero{
+    background-color: rgb(108, 51, 51);
+    color: aliceblue;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.hero p{
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.hero button{
+    background-color: rgb(73, 66, 57);
+    color: aliceblue;
+    border: none;
+    padding: 10px 20px;
+   margin-top: 20px;
+    border-radius: 5px;
+    cursor: pointer;  
+}
+
